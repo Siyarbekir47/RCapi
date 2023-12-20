@@ -1,0 +1,20 @@
+[01;34m.[0m
+├── CMakeLists.txt
+├── [01;34mclient[0m
+│   ├── client.cpp
+│   └── client.h
+├── [01;34mhandling[0m
+│   ├── handlers.cpp
+│   ├── handlers.h
+│   └── [01;34mstructures[0m
+│       ├── rate_structures.h
+│       └── request_history.cpp
+├── [01;34mlogging[0m
+│   ├── logger.cpp
+│   └── logger.h
+├── [01;34mquery[0m
+│   ├── query.cpp
+│   └── query.h
+└── version
+
+5 directories, 12 files

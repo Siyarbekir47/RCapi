@@ -1,0 +1,9 @@
+*.json
+build
+Debug/
+docs/
+site/
+Release/
+.cache/
+.vs/
+test/log_file.txt
