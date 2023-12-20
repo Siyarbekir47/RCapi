@@ -1,0 +1,11 @@
+build
+Debug/
+*.vcxproj
+*.filters
+*.user
+.cache
+.vs
+!build/imgui.ini
+.clangd
+tempmain.cpp
+tempbuild/
